@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Agent Identity Governance",
+    pageTitle: "Platform Engineering Overview",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "rodmhgl.github.io/zettelkasten-agent-governance",
+    baseUrl: "rodmhgl.github.io/platform-engineering-overview",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
