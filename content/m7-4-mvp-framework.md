@@ -1,5 +1,5 @@
 ---
-title: Follow the MVP Framework
+title: "Module 7-4: Follow the MVP Framework"
 tags:
   - mvp
   - framework

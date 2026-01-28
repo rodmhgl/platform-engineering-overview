@@ -1,5 +1,5 @@
 ---
-title: Vending Machines Concept
+title: "Module 6-4: Vending Machines Concept"
 tags:
   - vending-machine
   - mental-model

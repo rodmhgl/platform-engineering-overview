@@ -1,5 +1,5 @@
 ---
-title: Everything as Code
+title: "Module 6-5: Everything as Code"
 tags:
   - iac
   - gitops

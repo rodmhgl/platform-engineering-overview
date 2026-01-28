@@ -1,5 +1,5 @@
 ---
-title: "Module 8: How to Sell Your MVP to Key Stakeholders"
+title: "Module 8-0: How to Sell Your MVP to Key Stakeholders"
 tags:
   - module-8
 order: 0

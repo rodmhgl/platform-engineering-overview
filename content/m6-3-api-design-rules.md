@@ -1,5 +1,5 @@
 ---
-title: Rules for Designing APIs for Platforms
+title: "Module 6-3: Rules for Designing APIs for Platforms"
 tags:
   - api
   - design

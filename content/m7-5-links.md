@@ -1,5 +1,5 @@
 ---
-title: Module 7 Resources and Links
+title: "Module 7-5: Resources and Links"
 tags:
   - resources
   - links

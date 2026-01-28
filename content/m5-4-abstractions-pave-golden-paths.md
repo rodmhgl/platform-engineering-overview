@@ -1,5 +1,5 @@
 ---
-title: How Abstractions Pave Golden Paths
+title: "Module 5-4: How Abstractions Pave Golden Paths"
 tags:
   - abstractions
   - golden-paths

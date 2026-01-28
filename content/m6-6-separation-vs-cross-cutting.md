@@ -1,5 +1,5 @@
 ---
-title: Separation of Concerns vs Cross-cutting Concerns
+title: "Module 6-6: Separation of Concerns vs Cross-cutting Concerns"
 tags:
   - architecture
   - concerns

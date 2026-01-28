@@ -1,5 +1,5 @@
 ---
-title: Frontend Abstractions
+title: "Module 5-2: Frontend Abstractions"
 tags:
   - abstractions
   - frontend

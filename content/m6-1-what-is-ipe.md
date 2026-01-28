@@ -1,5 +1,5 @@
 ---
-title: What is Infrastructure Platform Engineering
+title: "Module 6-1: What is Infrastructure Platform Engineering"
 tags:
   - ipe
   - infrastructure

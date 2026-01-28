@@ -1,5 +1,5 @@
 ---
-title: "Module 6: Infrastructure Platform Engineering"
+title: "Module 6-0: Infrastructure Platform Engineering"
 tags:
   - module-6
 order: 0

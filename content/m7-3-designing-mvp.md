@@ -1,5 +1,5 @@
 ---
-title: Designing and Building Your Own MVP
+title: "Module 7-3: Designing and Building Your Own MVP"
 tags:
   - mvp
   - design

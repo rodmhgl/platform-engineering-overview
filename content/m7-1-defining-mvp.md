@@ -1,5 +1,5 @@
 ---
-title: Defining a Minimum Viable Platform
+title: "Module 7-1: Defining a Minimum Viable Platform"
 tags:
   - mvp
   - fundamentals

@@ -1,5 +1,5 @@
 ---
-title: "Module 7: How to Build Your Minimum Viable Platform"
+title: "Module 7-0: How to Build Your Minimum Viable Platform"
 tags:
   - module-7
 order: 0

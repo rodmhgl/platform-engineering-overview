@@ -1,5 +1,5 @@
 ---
-title: Why Start with an MVP
+title: "Module 7-2: Why Start with an MVP"
 tags:
   - mvp
   - strategy

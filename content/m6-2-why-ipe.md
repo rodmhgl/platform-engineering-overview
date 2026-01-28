@@ -1,5 +1,5 @@
 ---
-title: Why Infrastructure Platform Engineering?
+title: "Module 6-2: Why Infrastructure Platform Engineering?"
 tags:
   - ipe
   - value
