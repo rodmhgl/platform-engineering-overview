@@ -2,8 +2,6 @@
 title: "Module 5: Find the Right Abstractions"
 ---
 
-# Module 5: Find the Right Abstractions
-
 This module explores how abstractions simplify complexity and enable effective golden paths.
 
 ## Lessons

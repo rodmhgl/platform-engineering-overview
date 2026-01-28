@@ -2,8 +2,6 @@
 title: "Module 7: How to Build Your Minimum Viable Platform"
 ---
 
-# Module 7: Building Your Minimum Viable Platform (MVP)
-
 This module covers how to design, build, and implement a Minimum Viable Platform that demonstrates value quickly.
 
 ## Lessons

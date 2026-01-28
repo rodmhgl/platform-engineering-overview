@@ -2,8 +2,6 @@
 title: "Module 4: The Art of Building Golden Paths"
 ---
 
-# Module 4: The Art of Building Golden Paths
-
 This module covers how to design, identify, and implement effective golden paths for your platform.
 
 ## Lessons

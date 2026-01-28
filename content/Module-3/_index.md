@@ -2,8 +2,6 @@
 title: "Module 3: Platform Tooling 101"
 ---
 
-# Module 3: Platform Tooling 101
-
 This module explores the tools platform teams use and provides hands-on examples with two IDP implementations.
 
 ## Lessons

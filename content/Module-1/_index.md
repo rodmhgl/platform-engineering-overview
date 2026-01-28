@@ -2,8 +2,6 @@
 title: "Module 1: Intro to Platform Engineering"
 ---
 
-# Module 1: Introduction to Platform Engineering
-
 This module covers the foundational concepts of platform engineering, including definitions, emergence, and essential skills.
 
 ## Lessons

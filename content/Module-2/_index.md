@@ -2,8 +2,6 @@
 title: "Module 2: How to Build an Internal Developer Platform"
 ---
 
-# Module 2: Building an Internal Developer Platform
-
 This module covers the architectural decisions and design principles for building an effective IDP.
 
 ## Lessons

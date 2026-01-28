@@ -2,8 +2,6 @@
 title: "Module 6: Infrastructure Platform Engineering"
 ---
 
-# Module 6: Infrastructure Platform Engineering
-
 This module covers Infrastructure Platform Engineering (IPE) - building internal infrastructure products that are easily consumable.
 
 ## Lessons
