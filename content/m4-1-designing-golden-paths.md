@@ -1,5 +1,5 @@
 ---
-title: Designing Golden Paths
+title: "Module 4-1: Designing Golden Paths"
 tags:
   - golden-paths
   - design

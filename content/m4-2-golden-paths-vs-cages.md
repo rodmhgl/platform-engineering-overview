@@ -1,5 +1,5 @@
 ---
-title: Golden Paths vs Golden Cages
+title: "Module 4-2: Golden Paths vs Golden Cages"
 tags:
   - golden-paths
   - anti-patterns

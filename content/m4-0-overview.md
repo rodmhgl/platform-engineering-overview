@@ -1,5 +1,5 @@
 ---
-title: "Module 4: The Art of Building Golden Paths"
+title: "Module 4-0: The Art of Building Golden Paths"
 tags:
   - module-4
 order: 0

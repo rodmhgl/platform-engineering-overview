@@ -1,5 +1,5 @@
 ---
-title: The Impact of Golden Paths
+title: "Module 4-4: The Impact of Golden Paths"
 tags:
   - golden-paths
   - benefits

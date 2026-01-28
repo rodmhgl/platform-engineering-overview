@@ -1,5 +1,5 @@
 ---
-title: How to Identify Golden Paths
+title: "Module 4-3: How to Identify Golden Paths"
 tags:
   - golden-paths
   - methodology
