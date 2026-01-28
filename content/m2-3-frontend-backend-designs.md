@@ -1,5 +1,5 @@
 ---
-title: Front-end and Back-end Designs
+title: "Module 2-3: Front-end and Back-end Designs"
 tags:
   - architecture
   - design

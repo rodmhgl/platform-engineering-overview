@@ -1,5 +1,5 @@
 ---
-title: "Module 3: Platform Tooling 101"
+title: "Module 3-0: Platform Tooling 101"
 tags:
   - module-3
 order: 0

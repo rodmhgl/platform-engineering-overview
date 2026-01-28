@@ -1,5 +1,5 @@
 ---
-title: Platform Architecture Choices
+title: "Module 2-2: Platform Architecture Choices"
 tags:
   - architecture
   - design

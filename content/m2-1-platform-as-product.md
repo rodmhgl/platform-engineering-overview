@@ -1,5 +1,5 @@
 ---
-title: Platform as a Product
+title: "Module 2-1: Platform as a Product"
 tags:
   - product
   - mindset

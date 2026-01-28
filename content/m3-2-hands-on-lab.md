@@ -1,5 +1,5 @@
 ---
-title: Hands-on Lab
+title: "Module 3-2: Hands-on Lab"
 tags:
   - lab
   - practical

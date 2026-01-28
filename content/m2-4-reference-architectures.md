@@ -1,5 +1,5 @@
 ---
-title: Reference Architectures
+title: "Module 2-4: Reference Architectures"
 tags:
   - architecture
   - examples

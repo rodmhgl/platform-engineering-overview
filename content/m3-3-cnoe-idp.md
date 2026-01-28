@@ -1,5 +1,5 @@
 ---
-title: CNOE Reference Implementation
+title: "Module 3-3: CNOE Reference Implementation"
 tags:
   - cnoe
   - open-source

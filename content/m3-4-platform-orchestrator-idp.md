@@ -1,5 +1,5 @@
 ---
-title: Platform Orchestrator IDP
+title: "Module 3-4: Platform Orchestrator IDP"
 tags:
   - platform-orchestrator
   - vendor

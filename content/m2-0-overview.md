@@ -1,5 +1,5 @@
 ---
-title: "Module 2: How to Build an Internal Developer Platform"
+title: "Module 2-0: How to Build an Internal Developer Platform"
 tags:
   - module-2
 order: 0
