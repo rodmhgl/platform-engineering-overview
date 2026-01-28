@@ -8,12 +8,12 @@ This module covers communication strategies for different audiences and how to b
 
 ## Lessons
 
-- [[be-a-salesperson|Why You Need to Be a Salesperson]]
-- [[problem-statement-framework|Problem Statement Framework for Effective Communication]]
-- [[communicate-to-developers|How to Communicate to Developers]]
-- [[communicate-to-security|How to Communicate with Security Teams]]
-- [[communicate-to-execs|How to Communicate with Executives]]
-- [[business-case-roi|Build a Business Case and Calculate ROI]]
+- [[Module-8/be-a-salesperson|Why You Need to Be a Salesperson]]
+- [[Module-8/problem-statement-framework|Problem Statement Framework for Effective Communication]]
+- [[Module-8/communicate-to-developers|How to Communicate to Developers]]
+- [[Module-8/communicate-to-security|How to Communicate with Security Teams]]
+- [[Module-8/communicate-to-execs|How to Communicate with Executives]]
+- [[Module-8/business-case-roi|Build a Business Case and Calculate ROI]]
 
 ## Key Concept
 
