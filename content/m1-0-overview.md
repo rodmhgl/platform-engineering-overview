@@ -1,10 +1,10 @@
 ---
-title: "Module 1: Intro to Platform Engineering"
+title: "Module 1-0: Intro to Platform Engineering"
 tags:
   - module-1
 order: 0
 aliases:
-  - m1-overview
+  - m1-overview 
   - Module-1/index
   - Module-1/_index
 ---

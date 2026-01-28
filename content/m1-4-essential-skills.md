@@ -1,5 +1,5 @@
 ---
-title: Essential Skills for Platform Engineers
+title: "Module 1-4: Essential Skills for Platform Engineers"
 tags:
   - skills
   - career

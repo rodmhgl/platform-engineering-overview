@@ -1,5 +1,5 @@
 ---
-title: Core Concepts and Foundations of Platform Engineering
+title: "Module 1-1: Core Concepts and Foundations of Platform Engineering"
 tags:
   - fundamentals
   - definitions
