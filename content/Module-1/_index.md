@@ -6,10 +6,10 @@ This module covers the foundational concepts of platform engineering, including 
 
 ## Lessons
 
-- [[./core-concepts|Core Concepts and Foundations]]
-- [[./why-platform-engineering|Why Platform Engineering Has Emerged]]
-- [[./pe-vs-devops-vs-sre|Differences Between Platform Engineering, DevOps, and SRE]]
-- [[./essential-skills|Essential Skills to Become a Platform Engineer]]
+- [[core-concepts|Core Concepts and Foundations]]
+- [[why-platform-engineering|Why Platform Engineering Has Emerged]]
+- [[pe-vs-devops-vs-sre|Differences Between Platform Engineering, DevOps, and SRE]]
+- [[essential-skills|Essential Skills to Become a Platform Engineer]]
 
 ## Key Definitions
 

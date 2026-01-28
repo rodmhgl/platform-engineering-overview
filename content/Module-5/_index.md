@@ -6,10 +6,10 @@ This module explores how abstractions simplify complexity and enable effective g
 
 ## Lessons
 
-- [[./value-of-abstractions|Value of Abstractions]]
-- [[./frontend-abstractions|Frontend Abstractions]]
-- [[./backend-abstractions|Backend Abstractions]]
-- [[./abstractions-pave-golden-paths|How Abstractions Pave Golden Paths]]
+- [[value-of-abstractions|Value of Abstractions]]
+- [[frontend-abstractions|Frontend Abstractions]]
+- [[backend-abstractions|Backend Abstractions]]
+- [[abstractions-pave-golden-paths|How Abstractions Pave Golden Paths]]
 
 ## Key Concept
 

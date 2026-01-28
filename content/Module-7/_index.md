@@ -6,10 +6,10 @@ This module covers how to design, build, and implement a Minimum Viable Platform
 
 ## Lessons
 
-- [[./defining-mvp|Defining a Minimum Viable Platform]]
-- [[./why-start-mvp|Why Start with an MVP]]
-- [[./designing-mvp|Designing and Building Your Own MVP]]
-- [[./mvp-framework|Follow the MVP Framework]]
+- [[defining-mvp|Defining a Minimum Viable Platform]]
+- [[why-start-mvp|Why Start with an MVP]]
+- [[designing-mvp|Designing and Building Your Own MVP]]
+- [[mvp-framework|Follow the MVP Framework]]
 
 ## Key Concept
 

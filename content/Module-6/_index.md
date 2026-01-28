@@ -6,12 +6,12 @@ This module covers Infrastructure Platform Engineering (IPE) - building internal
 
 ## Lessons
 
-- [[./what-is-ipe|What is Infrastructure Platform Engineering]]
-- [[./why-ipe|Why Infrastructure Platform Engineering?]]
-- [[./api-design-rules|Rules for Designing APIs for Platforms]]
-- [[./vending-machines|Vending Machines Concept]]
-- [[./everything-as-code|Everything as Code]]
-- [[./separation-vs-cross-cutting|Separation of Concerns vs Cross-cutting Concerns]]
+- [[what-is-ipe|What is Infrastructure Platform Engineering]]
+- [[why-ipe|Why Infrastructure Platform Engineering?]]
+- [[api-design-rules|Rules for Designing APIs for Platforms]]
+- [[vending-machines|Vending Machines Concept]]
+- [[everything-as-code|Everything as Code]]
+- [[separation-vs-cross-cutting|Separation of Concerns vs Cross-cutting Concerns]]
 
 ## Key Concept
 

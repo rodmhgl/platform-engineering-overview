@@ -6,10 +6,10 @@ This module covers the architectural decisions and design principles for buildin
 
 ## Lessons
 
-- [[./platform-as-product|Platform as a Product]]
-- [[./architecture-choices|Platform Architecture Choices]]
-- [[./frontend-backend-designs|Front-end and Back-end Designs]]
-- [[./reference-architectures|Reference Architectures]]
+- [[platform-as-product|Platform as a Product]]
+- [[architecture-choices|Platform Architecture Choices]]
+- [[frontend-backend-designs|Front-end and Back-end Designs]]
+- [[reference-architectures|Reference Architectures]]
 
 ## Key Concept
 
